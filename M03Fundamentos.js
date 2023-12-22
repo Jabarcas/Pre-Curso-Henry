@@ -250,4 +250,3 @@ function esPositivo(num) {
     else
        return("Dato incorrecto")
  }
- 
